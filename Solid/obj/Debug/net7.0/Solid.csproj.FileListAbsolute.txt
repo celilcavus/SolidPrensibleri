@@ -1,0 +1,15 @@
+C:\Users\Celil Çavuş\Desktop\Solid\bin\Debug\net7.0\Solid.exe
+C:\Users\Celil Çavuş\Desktop\Solid\bin\Debug\net7.0\Solid.deps.json
+C:\Users\Celil Çavuş\Desktop\Solid\bin\Debug\net7.0\Solid.runtimeconfig.json
+C:\Users\Celil Çavuş\Desktop\Solid\bin\Debug\net7.0\Solid.dll
+C:\Users\Celil Çavuş\Desktop\Solid\bin\Debug\net7.0\Solid.pdb
+C:\Users\Celil Çavuş\Desktop\Solid\obj\Debug\net7.0\Solid.csproj.AssemblyReference.cache
+C:\Users\Celil Çavuş\Desktop\Solid\obj\Debug\net7.0\Solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celil Çavuş\Desktop\Solid\obj\Debug\net7.0\Solid.AssemblyInfoInputs.cache
+C:\Users\Celil Çavuş\Desktop\Solid\obj\Debug\net7.0\Solid.AssemblyInfo.cs
+C:\Users\Celil Çavuş\Desktop\Solid\obj\Debug\net7.0\Solid.csproj.CoreCompileInputs.cache
+C:\Users\Celil Çavuş\Desktop\Solid\obj\Debug\net7.0\Solid.dll
+C:\Users\Celil Çavuş\Desktop\Solid\obj\Debug\net7.0\refint\Solid.dll
+C:\Users\Celil Çavuş\Desktop\Solid\obj\Debug\net7.0\Solid.pdb
+C:\Users\Celil Çavuş\Desktop\Solid\obj\Debug\net7.0\Solid.genruntimeconfig.cache
+C:\Users\Celil Çavuş\Desktop\Solid\obj\Debug\net7.0\ref\Solid.dll
